@@ -1,0 +1,11 @@
+/home/webapitest/publish_output/appsettings.Development.json
+/home/webapitest/publish_output/appsettings.json
+/home/webapitest/publish_output/webapitest.dll
+/home/webapitest/publish_output/webapitest.deps.json
+/home/webapitest/publish_output/webapitest.runtimeconfig.json
+/home/webapitest/publish_output/webapitest.pdb
+/home/webapitest/publish_output/Microsoft.AspNetCore.OpenApi.dll
+/home/webapitest/publish_output/Microsoft.OpenApi.dll
+/home/webapitest/publish_output/Swashbuckle.AspNetCore.Swagger.dll
+/home/webapitest/publish_output/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/webapitest/publish_output/Swashbuckle.AspNetCore.SwaggerUI.dll
